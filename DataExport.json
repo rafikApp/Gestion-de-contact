@@ -1,0 +1,345 @@
+{
+    "Contact": [
+        {
+            "dateC": "14/12/2023",
+            "dateM": "22/12/2023",
+            "email": "rharmaoui.rafik@gmail.com",
+            "entreprise": "meta",
+            "idC": 2,
+            "nom": "zz",
+            "photo": "/home1/ak859784/Téléchargements/rafik.jpeg",
+            "prenom": "ah",
+            "telephone": "0768551293"
+        },
+        {
+            "dateC": "14/12/2023",
+            "dateM": "17/12/2023",
+            "email": "kjghjhsdfgyzds@gmail.com",
+            "entreprise": "meta",
+            "idC": 3,
+            "nom": "rharmaoui",
+            "photo": "/home1/ak859784/Téléchargements/ahmedrafik.jpeg",
+            "prenom": "ahmed",
+            "telephone": "0652145278"
+        },
+        {
+            "dateC": "18/12/2023",
+            "dateM": "18/12/2023",
+            "email": "G",
+            "entreprise": "G",
+            "idC": 4,
+            "nom": "KL",
+            "photo": "/home1/ak859784/Téléchargements/ahmed1.jpeg",
+            "prenom": "G",
+            "telephone": "G"
+        },
+        {
+            "dateC": "18/12/2023",
+            "dateM": "19/12/2023",
+            "email": "f",
+            "entreprise": "f",
+            "idC": 5,
+            "nom": "df",
+            "photo": "/home1/ak859784/Téléchargements/ahmed1.jpeg",
+            "prenom": "f",
+            "telephone": "f"
+        },
+        {
+            "dateC": "22/12/2023",
+            "dateM": "22/12/2023",
+            "email": "sd",
+            "entreprise": "ds",
+            "idC": 10,
+            "nom": "s",
+            "photo": "/home1/ak859784/Téléchargements/Document – Copie-1-9.pdf",
+            "prenom": "ds",
+            "telephone": "0123456789"
+        }
+    ],
+    "Interaction": [
+        {
+            "contenu": "reservation",
+            "dateInteraction": "1/0/0",
+            "idC": 2,
+            "idI": 1
+        },
+        {
+            "contenu": "toto",
+            "dateInteraction": "18/12/2023",
+            "idC": 3,
+            "idI": 2
+        },
+        {
+            "contenu": "tt",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 3
+        },
+        {
+            "contenu": "tt",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 4
+        },
+        {
+            "contenu": "tt",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 5
+        },
+        {
+            "contenu": "rr",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 6
+        },
+        {
+            "contenu": "tyt",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 7
+        },
+        {
+            "contenu": "rr",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 8
+        },
+        {
+            "contenu": "ee",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 9
+        },
+        {
+            "contenu": "ee",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 10
+        },
+        {
+            "contenu": "sdzs",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 11
+        },
+        {
+            "contenu": "wxwwx",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 12
+        },
+        {
+            "contenu": "llll",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 13
+        },
+        {
+            "contenu": "zzz",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 14
+        },
+        {
+            "contenu": "zz",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 15
+        },
+        {
+            "contenu": "rr",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 16
+        },
+        {
+            "contenu": "rr",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 17
+        },
+        {
+            "contenu": "aa",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 18
+        },
+        {
+            "contenu": "zz",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 19
+        },
+        {
+            "contenu": "tt",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 20
+        },
+        {
+            "contenu": "rr",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 21
+        },
+        {
+            "contenu": "aq",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 22
+        },
+        {
+            "contenu": "rrr",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 23
+        },
+        {
+            "contenu": "ee",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 24
+        },
+        {
+            "contenu": "aa",
+            "dateInteraction": "19/12/2023",
+            "idC": 6,
+            "idI": 25
+        },
+        {
+            "contenu": "aaa",
+            "dateInteraction": "19/12/2023",
+            "idC": 2,
+            "idI": 26
+        },
+        {
+            "contenu": "aze",
+            "dateInteraction": "20/12/2023",
+            "idC": 2,
+            "idI": 27
+        },
+        {
+            "contenu": "aze",
+            "dateInteraction": "21/12/2023",
+            "idC": 2,
+            "idI": 31
+        },
+        {
+            "contenu": "ddd",
+            "dateInteraction": "21/12/2023",
+            "idC": 2,
+            "idI": 33
+        },
+        {
+            "contenu": "dd",
+            "dateInteraction": "21/12/2023",
+            "idC": 2,
+            "idI": 34
+        },
+        {
+            "contenu": "fgg",
+            "dateInteraction": "21/12/2023",
+            "idC": 2,
+            "idI": 35
+        },
+        {
+            "contenu": "dd",
+            "dateInteraction": "21/12/2023",
+            "idC": 2,
+            "idI": 36
+        },
+        {
+            "contenu": "zz",
+            "dateInteraction": "21/12/2023",
+            "idC": 3,
+            "idI": 37
+        },
+        {
+            "contenu": "sdf",
+            "dateInteraction": "22/12/2023",
+            "idC": 2,
+            "idI": 38
+        },
+        {
+            "contenu": "ioio",
+            "dateInteraction": "22/12/2023",
+            "idC": 2,
+            "idI": 39
+        },
+        {
+            "contenu": "sf",
+            "dateInteraction": "22/12/2023",
+            "idC": 2,
+            "idI": 40
+        }
+    ],
+    "Todo": [
+        {
+            "dateTodo": "20/12/2023",
+            "idI": 27,
+            "idT": 1,
+            "tache": "tache "
+        },
+        {
+            "dateTodo": "20/12/2023",
+            "idI": 28,
+            "idT": 2,
+            "tache": "manger"
+        },
+        {
+            "dateTodo": "12/12/2001",
+            "idI": 28,
+            "idT": 3,
+            "tache": "dormir"
+        },
+        {
+            "dateTodo": "20/12/2023",
+            "idI": 29,
+            "idT": 4,
+            "tache": "ok"
+        },
+        {
+            "dateTodo": "20/12/2023",
+            "idI": 30,
+            "idT": 5,
+            "tache": "toto"
+        },
+        {
+            "dateTodo": "21/12/2023",
+            "idI": 31,
+            "idT": 6,
+            "tache": "aze"
+        },
+        {
+            "dateTodo": "21/12/2023",
+            "idI": 32,
+            "idT": 7,
+            "tache": "qqt"
+        },
+        {
+            "dateTodo": "21/12/2023",
+            "idI": 33,
+            "idT": 8,
+            "tache": "ujjj"
+        },
+        {
+            "dateTodo": "21/12/2023",
+            "idI": 34,
+            "idT": 9,
+            "tache": "ter"
+        },
+        {
+            "dateTodo": "21/12/2023",
+            "idI": 35,
+            "idT": 10,
+            "tache": "tyy"
+        },
+        {
+            "dateTodo": "22/12/2023",
+            "idI": 39,
+            "idT": 11,
+            "tache": "l"
+        }
+    ]
+}
